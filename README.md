@@ -1,2 +1,2 @@
-#Tic Tac Toe React
+# Tic-Tac-Toe React
 https://w2tong.github.io/tic-tac-toe-reactjs/
